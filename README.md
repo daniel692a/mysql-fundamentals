@@ -39,3 +39,19 @@ Structured Query Language es el lengaje estándar creado por *IBM*.
 * Definición de datos (DDL): Crear, modificar y eliminar estructuras de la base de datos como tablas, procedimientos, entre otros (create, alter, drop, truncate).
 * Manipulación de datos (DML): Permite manipular los datos en las tablas (select, insert, update, delete).
 * Lenguaje de control de acceso (DCL): Permite manipular la seguridad al acceso de los datos (grant, revoke).
+
+# ¿Qué es MySQL?
+Es un sistema de gestión de bases de datos SQL de código abierto más popular. Desarrollado por **Oracle**.
+## MySQL 8
+* Creación y asignación de roles
+* Índices
+* Persistencia en configuración, no perder la cong¿figuración al apagar el servidor
+* Conjunto de caracteres cambio a UTF-8
+* Validación del esquema JSON
+
+## Características
+* Elegir varios motores de almacenamiento
+* Multiplataforma
+* Indexación de campos de texto
+* Alto rendimiento y escalabilidad
+* Buena protección de datos
